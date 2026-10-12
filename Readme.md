@@ -1,12 +1,12 @@
 # Our Favorite Things
-com girl 
+Computer
 
 ## Favorite Food
-kaprao  milk 
+Kaprao ,Milk 
 
 # List each team member's favorite food.
-1.kaprao flick
-2.milk cake
+1.Kaprao flick
+2.Milk cake
 
 ## Favorite Activities
 Play games
