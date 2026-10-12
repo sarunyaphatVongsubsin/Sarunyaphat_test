@@ -12,4 +12,8 @@ Kaprao ,Milk
 Play games
 
 Flick - play games
+<<<<<<< Updated upstream
 Cake - play with his dih
+=======
+Cake - play games and listen music
+>>>>>>> Stashed changes
