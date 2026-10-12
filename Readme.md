@@ -12,4 +12,4 @@ Kaprao ,Milk
 Play games
 
 Flick - play games
-Cake - play games
+Cake - play with his dih
